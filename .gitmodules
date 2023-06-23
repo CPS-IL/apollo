@@ -1,0 +1,10 @@
+[submodule "lgsvl_msgs"]
+	path = lgsvl_pkgs/lgsvl_msgs
+	url = https://github.com/CPS-IL/lgsvl_msgs.git
+	branch = main
+
+[submodule "safety_layer"]
+	path = modules/safety_layer
+	url = https://github.com/CPS-IL/safety_layer_module.git
+	branch = main
+
