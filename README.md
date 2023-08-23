@@ -1,10 +1,12 @@
-This repository is a fork of https://github.com/lgsvl/apollo-5.0, specifically from https://github.com/lgsvl/apollo-5.0/commit/1b7a466ada5aa1d50a5684bd8885ccee11a71877
 
-Prior history squashed to suppress dependence on git lfs.
+This repository was forked from [lgsvl/apollo-5.0](https://github.com/lgsvl/apollo-5.0), at commit id [1b7a466](https://github.com/lgsvl/apollo-5.0/commit/1b7a466ada5aa1d50a5684bd8885ccee11a71877).
+Prior history squashed to suppress dependence on [git lfs](https://github.com/ApolloAuto/apollo/blob/v5.5.0/docs/howto/how_to_migrate_to_the_updated_apollo_master_from_old_versions.md).
 
-For usage instructions please refer to https://github.com/CPS-IL/perception_simplex
+This repository is for the evaluation of [Perception Simplex](https://github.com/CPS-IL/perception_simplex). Please refer to the usage instructions at [Perception Simplex](https://github.com/CPS-IL/perception_simplex). The engineering version, uploaded and maintained by Simon Yu, is [available here](https://github.com/cpsintegrationlab/apollo).
 
-Original Readme follows.
+---
+The original ReadMe follows:
+
 
 # LG Silicon Valley Lab Apollo 5.0 Fork
 This repository is a fork of [Apollo](https://github.com/ApolloAuto/apollo) maintained by the LG Electronics Silicon Valley Lab which has modified and configured to facilitate use with [LG's Automotive Simulator](https://github.com/lgsvl/simulator).
